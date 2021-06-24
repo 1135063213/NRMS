@@ -9,11 +9,11 @@
 
    
 
-![](E:\git workspace\NRMS\images\1.png)
+![](.\images\1.png)
 
-![](E:\git workspace\NRMS\images\2.png)
+![](.\images\2.png)
 
-![](E:\git workspace\NRMS\images\3.png)
+![](.\images\3.png)
 
 3.修改项目中的你的MySQL主机名、用户名、密码、数据库名
 
