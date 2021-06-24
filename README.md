@@ -8,7 +8,7 @@
 2. 将打开VS项目（NRMS.sln），然后添加相关库和依赖项，如下图所示（下图的路径根据自己MySQL路径修改）：
 
 
-![1](.\images\1.png)
+![1.png](.\images\1.png)
 
 ![2](.\images\2.png)
 
