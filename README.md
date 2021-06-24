@@ -9,9 +9,11 @@
 
 <img src=".\images\1.png" alt="1" style="zoom:67%;" />
 
-<img src=".\images\2.png" alt="2" style="zoom: 67%;" />
+<img src=".\images\2.png" alt="2" style="zoom:67%;" />
 
 <img src=".\images\3.png" alt="3" style="zoom:67%;" />
+
+
 
 3.修改项目中的你的MySQL主机名、用户名、密码、数据库名
 
