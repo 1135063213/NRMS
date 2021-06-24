@@ -14,7 +14,7 @@ void mysql_connect()
     //连接数据库
     //判断如果连接失败就输出连接失败。
     //注意你连接的账户名密码
-    if (mysql_real_connect(&mysql, "localhost", "root", "79231436055", "novel", 3306, NULL, 0) == NULL)//主机 用户名 密码 数据库名 端口
+    if (mysql_real_connect(&mysql, "localhost", "root", "xxxxxxxxxxx", "novel", 3306, NULL, 0) == NULL)//主机 用户名 密码 数据库名 端口
         printf("连接失败！\n");
     else
         printf("连接成功！\n");
