@@ -7,12 +7,11 @@
 
 2. 将打开VS项目（NRMS.sln），然后添加相关库和依赖项，如下图所示（下图的路径根据自己MySQL路径修改）：
 
+<img src=".\images\1.png" alt="1" style="zoom:67%;" />
 
-![1](.\images\1.png)
+<img src=".\images\2.png" alt="2" style="zoom: 67%;" />
 
-![2](.\images\2.png)
-
-![3](.\images\3.png)
+<img src=".\images\3.png" alt="3" style="zoom:67%;" />
 
 3.修改项目中的你的MySQL主机名、用户名、密码、数据库名
 
